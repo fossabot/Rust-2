@@ -1,4 +1,5 @@
 # The Algorithms - Rust [![Gitter](https://img.shields.io/gitter/room/the-algorithms/rust.svg?style=flat-square)](https://gitter.im/the-algorithms/rust) [![build](https://github.com/TheAlgorithms/Rust/actions/workflows/build.yml/badge.svg)](https://github.com/TheAlgorithms/Rust/actions/workflows/build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffred-sheehan%2FRust.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffred-sheehan%2FRust?ref=badge_shield)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" width="200" height="200">
 
@@ -187,3 +188,7 @@ See [DIRECTORY.md](./DIRECTORY.md)
 ### Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffred-sheehan%2FRust.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffred-sheehan%2FRust?ref=badge_large)
